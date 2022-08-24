@@ -2,6 +2,7 @@ import React from "react";
 import "./category.css";
 
 const Category = () => {
+    
     return (
         <div className="categories">
             <div className="small-container">
